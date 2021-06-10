@@ -1,0 +1,262 @@
+[{
+  "_id": {
+    "$oid": "608585c29b04000028002a33"
+  },
+  "customerID": {
+    "$oid": "6085830c333e000022003828"
+  },
+  "details": [
+    [
+      {
+        "$oid": "607d102a597a0000bf006d0f"
+      },
+      "1 - pc. Chickenjoy w/ Palabok",
+      "182",
+      1
+    ],
+    [
+      {
+        "$oid": "607d102a597a0000bf006d0f"
+      },
+      "1 - pc. Chickenjoy w/ Palabok",
+      "182",
+      1
+    ],
+    [
+      {
+        "$oid": "607d102a597a0000bf006d0f"
+      },
+      "1 - pc. Chickenjoy w/ Palabok",
+      "182",
+      1
+    ]
+  ],
+  "totalPrice": "",
+  "orderDate": {
+    "$date": "2021-04-25T15:07:46.752Z"
+  }
+},{
+  "_id": {
+    "$oid": "60c1a22a907200003e002b2a"
+  },
+  "customerID": {
+    "$oid": "6085830c333e000022003828"
+  },
+  "details": [
+    [
+      {
+        "$oid": "607d12cd597a0000bf006d15"
+      },
+      "1 - pc. Chickenjoy w/ Jolly Spaghetti Solo",
+      "109",
+      1
+    ],
+    [
+      {
+        "$oid": "607d12cd597a0000bf006d15"
+      },
+      "1 - pc. Chickenjoy w/ Jolly Spaghetti Solo",
+      "109",
+      1
+    ],
+    [
+      {
+        "$oid": "607d12cd597a0000bf006d15"
+      },
+      "1 - pc. Chickenjoy w/ Jolly Spaghetti Solo",
+      "109",
+      1
+    ],
+    [
+      {
+        "$oid": "607d1002597a0000bf006d0e"
+      },
+      "1 - pc. Chickenjoy w/ Fries",
+      "109",
+      1
+    ],
+    [
+      {
+        "$oid": "607d1002597a0000bf006d0e"
+      },
+      "1 - pc. Chickenjoy w/ Fries",
+      "109",
+      1
+    ],
+    [
+      {
+        "$oid": "607d1002597a0000bf006d0e"
+      },
+      "1 - pc. Chickenjoy w/ Fries",
+      "109",
+      1
+    ]
+  ],
+  "totalPrice": "",
+  "orderDate": {
+    "$date": "2021-06-10T05:24:55.610Z"
+  }
+},{
+  "_id": {
+    "$oid": "60c1a231907200003e002b2b"
+  },
+  "customerID": {
+    "$oid": "6085830c333e000022003828"
+  },
+  "details": [
+    [
+      {
+        "$oid": "607d1002597a0000bf006d0e"
+      },
+      "1 - pc. Chickenjoy w/ Fries",
+      "109",
+      1
+    ]
+  ],
+  "totalPrice": "",
+  "orderDate": {
+    "$date": "2021-06-10T05:25:05.365Z"
+  }
+},{
+  "_id": {
+    "$oid": "60c1a369907200003e002b2c"
+  },
+  "customerID": {
+    "$oid": "6085830c333e000022003828"
+  },
+  "details": [
+    [
+      {
+        "$oid": "6085834f333e000022003829"
+      },
+      "Rice in a bowl",
+      "50",
+      1
+    ]
+  ],
+  "totalPrice": "",
+  "orderDate": {
+    "$date": "2021-06-10T05:30:17.316Z"
+  }
+},{
+  "_id": {
+    "$oid": "60c1a42e907200003e002b2d"
+  },
+  "customerID": {
+    "$oid": "6085830c333e000022003828"
+  },
+  "details": [
+    [
+      {
+        "$oid": "607db32b194400002a006494"
+      },
+      "Blueberry Cheesecake",
+      "150",
+      1
+    ],
+    [
+      {
+        "$oid": "607db32b194400002a006494"
+      },
+      "Blueberry Cheesecake",
+      "150",
+      1
+    ],
+    [
+      {
+        "$oid": "607db32b194400002a006494"
+      },
+      "Blueberry Cheesecake",
+      "150",
+      1
+    ]
+  ],
+  "totalPrice": "",
+  "orderDate": {
+    "$date": "2021-06-10T05:33:34.889Z"
+  }
+},{
+  "_id": {
+    "$oid": "60c1a48c907200003e002b2e"
+  },
+  "customerID": {
+    "$oid": "6085830c333e000022003828"
+  },
+  "details": [
+    [
+      {
+        "$oid": "607d1002597a0000bf006d0e"
+      },
+      "1 - pc. Chickenjoy w/ Fries",
+      "109",
+      1
+    ]
+  ],
+  "totalPrice": "",
+  "orderDate": {
+    "$date": "2021-06-10T05:35:08.992Z"
+  }
+},{
+  "_id": {
+    "$oid": "60c1a4f8907200003e002b2f"
+  },
+  "customerID": {
+    "$oid": "6085830c333e000022003828"
+  },
+  "details": [
+    [
+      {
+        "$oid": "607d1002597a0000bf006d0e"
+      },
+      "1 - pc. Chickenjoy w/ Fries",
+      "109",
+      1
+    ]
+  ],
+  "totalPrice": "",
+  "orderDate": {
+    "$date": "2021-06-10T05:36:56.519Z"
+  }
+},{
+  "_id": {
+    "$oid": "60c1a51f907200003e002b30"
+  },
+  "customerID": {
+    "$oid": "6085830c333e000022003828"
+  },
+  "details": [
+    [
+      {
+        "$oid": "607d1002597a0000bf006d0e"
+      },
+      "1 - pc. Chickenjoy w/ Fries",
+      "109",
+      1
+    ]
+  ],
+  "totalPrice": "",
+  "orderDate": {
+    "$date": "2021-06-10T05:37:35.214Z"
+  }
+},{
+  "_id": {
+    "$oid": "60c1a53c907200003e002b31"
+  },
+  "customerID": {
+    "$oid": "6085830c333e000022003828"
+  },
+  "details": [
+    [
+      {
+        "$oid": "607d12cd597a0000bf006d15"
+      },
+      "1 - pc. Chickenjoy w/ Jolly Spaghetti Solo",
+      "109",
+      1
+    ]
+  ],
+  "totalPrice": "",
+  "orderDate": {
+    "$date": "2021-06-10T05:38:04.689Z"
+  }
+}]

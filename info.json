@@ -1,0 +1,15 @@
+[{
+  "_id": {
+    "$oid": "608a7105421c0000ea005350"
+  },
+  "firstname": "war",
+  "lastname": "war",
+  "address": "war",
+  "username": "war",
+  "password": "war",
+  "admin": "yes",
+  "created_at": {
+    "$date": "2021-04-29T08:40:37.217Z"
+  },
+  "UNIX_time": 1619685637
+}]
